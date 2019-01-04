@@ -1,0 +1,6 @@
+统一掉它这个接口 ：FastUploadFile
+fileupload.html
+upload.js
+放在webapp-style-upload-js-xxx.js
+
+

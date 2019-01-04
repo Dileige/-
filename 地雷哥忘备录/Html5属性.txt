@@ -1,0 +1,5 @@
+class 规定元素的属性
+hidden 隐藏
+id      规定元素唯一id
+item 用于组合元素
+style 规定元素的行内样式

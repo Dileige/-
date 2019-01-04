@@ -1,0 +1,13 @@
+主要负责： 微信小程序的用户相关 
+controller:
+	admin:后台接口
+  	common:公共依赖模块--FastDFS
+	supplier:前端
+	wxapp:微信app
+	  	CollectionController收藏   未使用
+		CustomerController余额 获取邀请码
+		LogisticsController提货地址
+		MessageController消息管理
+		WalletController余额明细
+	wxpay：支付模块
+SettlementController  接口出问题（考虑的因素：下单、生成订单-代发货没商品信息、用户钱包出入账记录-生成一条数据）
